@@ -2,3 +2,7 @@
 <Version: 1.02>
 /data/Map002.json https://raw.githubusercontent.com/xbradii/Morteria-RPG/master/Map002.json
 <End of Version>
+
+<Version: 1.03>
+/img/pictures/unit1.png https://i.imgur.com/v3iypmx.png
+<End of Version>
